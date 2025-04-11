@@ -1,4 +1,0 @@
-PINTOS_DEBUG=1 pintos-test exec-arg
-loadusersymbols tests/userprog/multithreading/create-simple
-debugpintos
-dumplist &all_list thread allelem
